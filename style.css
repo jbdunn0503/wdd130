@@ -1,0 +1,27 @@
+head {
+    color: aqua; text-align: center;
+
+}
+
+body {
+    background-image:url("back.jpeg"); text-align: center;
+    color: rgb(94, 250, 255);
+    text-rendering: auto;
+    
+}
+
+header {
+background-color: azure;
+}
+h1 {
+    color: black;
+}
+main{
+    background-color: black;
+    width: 33%;
+    margin-left: 450px;
+}
+footer {
+    background-color: aliceblue;
+    color: black;
+}
