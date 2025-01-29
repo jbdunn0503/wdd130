@@ -1,0 +1,35 @@
+body{
+    background-color: #5ca1d7;
+    margin: 100;
+    color: white;
+    text-align: center;
+}
+h1{
+    
+    color: white;
+   font-size: 40px; 
+}
+h1:hover{
+    color: black;
+}
+p{
+    
+    font-size: 24px;
+}
+.List{
+    color: black;
+    text-align: left;
+    margin-left: 30%;
+}
+h2{
+    color: white;
+    font-size: 40px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+img{
+    max-width: 300px;
+    max-height: 100%;
+}
+
+
