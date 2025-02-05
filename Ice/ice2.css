@@ -1,0 +1,17 @@
+body{
+    background-color: #737373;
+    text-align: center;
+    margin: 0;
+}
+#banner{
+    width: 100%;
+}
+#circle{
+    border-radius: 600px;
+    border-color: #444444;
+    border-style: solid;
+    border-width: 20px;
+    width: 250px;
+    height: 250px;
+    
+}
