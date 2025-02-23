@@ -1,8 +1,6 @@
 .content{
     display: grid;
-    grid-template-columns: 1fr 1fr;
-   
-    
+    grid-template-columns: 1fr 1fr; 
 }
 .first .second{
     width: 100%;
@@ -16,25 +14,19 @@ body{
 h1{
     font-size: 200px;
     text-align: center;
-    
-   
 }
 image {
     height: 300px;
-    width: 300px;
-   
+    width: 300px;  
 }
 h4 {
     font-size: 100px;
     color: rgb(161, 20, 20);
     text-align: center;
-    margin-top: 75%;
-   
-    
+    margin-top: 75%; 
 }
 .second{
     background-color: #b9b8b9;
-   
 }
 .over{
  grid-column: 1/2;
