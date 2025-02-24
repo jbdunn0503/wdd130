@@ -196,15 +196,14 @@ footer p a:hover {
     grid-column: 8/10;
     grid-row: 2/3;
 }
-.mountians{
-    width: 100%;
+.mountains{
     grid-column: 2/7;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
 }
 
-.card img {
-    border: 10px solid black;
+.card-img {
+    border: 10px solid #001F54;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
 }
