@@ -221,6 +221,72 @@ footer p a:hover {
     margin-top: -100px; 
 }
 
+.river1{
+    align-items: center;
+    justify-content: center;
+    
+}
+.salmon{
+    background-color: #001F54;
+    text-indent: 15px;
+    color: #FFFAF1;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+    grid-column: 2/7 7/7;
+    grid-row: 1/7;
+    max-width: 100%;
+
+}
+.gray{
+    text-indent: 15px;
+    background-color: #001F54;
+    color: #FFFAF1;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+    grid-column: 2/7 7/7;
+    grid-row: 3/7;
+}
+.grand{
+    text-indent: 15px;
+    background-color: #001F54;
+    color: #FFFAF1;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+    grid-column: 1/7 7/7;
+    grid-row: 6/7;
+}
+.rivers{
+    color: #FFFAF1;
+    text-align: center;
+}
+.i1, .i2, .i3, .u1, .u2, .u3, .a1, .a2, .a3{
+    max-height: 200px;
+    max-width: 100%;
+    justify-content: center;
+}
+.i1, .i2, .i3{
+    margin-left: 100px;
+}
+.u1, .u2, .u3{
+    margin-left: 100px;
+}
+.a1, .a2, .a3{
+    margin-left: 80px;
+}
+
+.Idaho{
+    grid-row: 2/7;
+}
+.Utah{
+    grid-row: 4/7;
+}
+.Arizona{
+    grid-row: 6/7;
+}
+
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
