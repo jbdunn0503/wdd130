@@ -77,6 +77,14 @@ nav a:hover {
 .logo{
     max-width: 100px;
 }
+.resume{
+    background-color: #65CEFF;
+    color: black;
+    text-align: left;
+    margin:50px 200px;
+    padding: 20px;
+}
+
 
 footer {
     background-color: #65CEFF;
