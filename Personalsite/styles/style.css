@@ -85,7 +85,42 @@ nav a:hover {
     padding: 20px;
 }
 
-
+.qual{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #65CEFF;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    text-align: center;
+}
+.Cert{
+    grid-column: 1/3;
+    
+}
+.A{
+    width: 300px;
+    grid-column: 1/2;
+    padding: 50px;
+    margin-left: 90px;
+}
+.ADiv{
+    grid-column: 2/3;
+    padding: 50px;
+    
+}
+.ITF{
+    width: 300px;
+    height: 300px;
+    grid-column: 1/2;
+    padding: 50px;
+    margin-left: 90px;
+}
+.ITFDiv{
+    grid-column: 2/3;
+    padding: 50px;
+}
 footer {
     background-color: #65CEFF;
     padding: 25px 50px;
